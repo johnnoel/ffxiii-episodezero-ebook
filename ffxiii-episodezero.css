@@ -5,9 +5,21 @@ p {
 
 .section-break {
     margin: 2em 0;
+    text-indent: 0;
+    text-align: center;
+    letter-spacing: 2em;
 }
 
 .break-both {
     page-break-before: always;
     page-break-after: always;
+}
+
+.break-before {
+    page-break-before: always;
+}
+
+.chapter-title {
+    page-break-before: always;
+    padding-top: 8em;
 }
