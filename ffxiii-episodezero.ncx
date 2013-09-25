@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+    <head>
+        <meta name="dtb:uid" content="BookId"/>
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle><text>Final Fantasy XIII: Episode Zero</text></docTitle>
+    <docAuthor><text>Jun Eishima</text></docAuthor>
+    <navMap>
+        <navPoint class="toc" id="toc" playOrder="1">
+            <navLabel>
+                <text>Table of Contents</text>
+            </navLabel>
+            <content src="toc.html"/>
+        </navPoint>
+
+        <navPoint class="chapter" id="part1" playOrder="2">
+            <navLabel>
+                <text>Part I: Encounter</text>
+            </navLabel>
+            <content src="part1.html"/>
+
+            <navPoint class="section" id="part1chapter1" playOrder="3">
+                <navLabel>
+                    <text>Chapter One</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter1"/>
+            </navPoint>
+
+            <navPoint class="section" id="part1chapter2" playOrder="4">
+                <navLabel>
+                    <text>Chapter Two</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter2"/>
+            </navPoint>
+
+            <navPoint class="section" id="part1chapter3" playOrder="5">
+                <navLabel>
+                    <text>Chapter Three</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter3"/>
+            </navPoint>
+
+            <navPoint class="section" id="part1chapter4" playOrder="6">
+                <navLabel>
+                    <text>Chapter Four</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter4"/>
+            </navPoint>
+
+            <navPoint class="section" id="part1chapter5" playOrder="7">
+                <navLabel>
+                    <text>Chapter Five</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter5"/>
+            </navPoint>
+
+            <navPoint class="section" id="part1chapter6" playOrder="8">
+                <navLabel>
+                    <text>Chapter Six</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter6"/>
+            </navPoint>
+
+            <navPoint class="section" id="part1chapter7" playOrder="9">
+                <navLabel>
+                    <text>Chapter Seven</text>
+                </navLabel>
+                <content src="part1.html#part1-chapter7"/>
+            </navPoint>
+        </navPoint>
+
+        <navPoint class="chapter" id="part2" playOrder="10">
+            <navLabel>
+                <text>Part II: Stranger</text>
+            </navLabel>
+            <content src="part2.html"/>
+
+            <navPoint class="section" id="part2chapter1" playOrder="11">
+                <navLabel>
+                    <text>Chapter One</text>
+                </navLabel>
+                <content src="part2.html#part2-chapter1"/>
+            </navPoint>
+
+            <navPoint class="section" id="part2chapter2" playOrder="12">
+                <navLabel>
+                    <text>Chapter Two</text>
+                </navLabel>
+                <content src="part2.html#part2-chapter2"/>
+            </navPoint>
+
+            <navPoint class="section" id="part2chapter3" playOrder="13">
+                <navLabel>
+                    <text>Chapter Three</text>
+                </navLabel>
+                <content src="part2.html#part2-chapter3"/>
+            </navPoint>
+
+            <navPoint class="section" id="part2chapter4" playOrder="14">
+                <navLabel>
+                    <text>Chapter Four</text>
+                </navLabel>
+                <content src="part2.html#part2-chapter4"/>
+            </navPoint>
+
+            <navPoint class="section" id="part2chapter5" playOrder="15">
+                <navLabel>
+                    <text>Chapter Five</text>
+                </navLabel>
+                <content src="part2.html#part2-chapter5"/>
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>

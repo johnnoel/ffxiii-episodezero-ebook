@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Final Fantasy XIII: Episode Zero</dc:title>
+        <dc:language>en-us</dc:language>
+
+        <meta name="cover" content="My_Cover" />
+
+        <dc:identifier id="BookId" opf:scheme="ISBN">1</dc:identifier>
+
+        <dc:creator>Jun Eishima</dc:creator>
+        <dc:creator>Motomu Toriyama</dc:creator>
+        <dc:creator>Daisuke Watanabe</dc:creator>
+        <dc:creator>Lissar (Translation)</dc:creator>
+        <dc:publisher>chaostangent.com</dc:publisher>
+
+        <dc:date>2013-09-25</dc:date>
+
+        <dc:description>Prologue novel for Final Fantasy XIII</dc:description>
+    </metadata>
+
+    <manifest>
+        <item id="item1" media-type="application/xhtml+xml" href="part1.html"></item>
+        <item id="item2" media-type="application/xhtml+xml" href="part2.html"></item>
+        <item id="toc" media-type="application/xhtml+xml" href="toc.html"></item>
+
+        <item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="ffxiii-episodezero.ncx"/>
+
+        <item id="My_Cover" media-type="image/jpg" href="img/cover.jpg"/>
+    </manifest>
+
+    <spine toc="My_Table_of_Contents">
+        <itemref idref="toc"/>
+        <itemref idref="item1"/>
+        <itemref idref="item2"/>
+    </spine>
+
+    <guide>
+        <reference type="toc" title="Table of Contents" href="toc.html"></reference>
+    </guide>
+</package>

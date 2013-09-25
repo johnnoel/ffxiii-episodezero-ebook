@@ -1,0 +1,13 @@
+p {
+    text-indent: 2em;
+    margin: 0;
+}
+
+.section-break {
+    margin: 2em 0;
+}
+
+.break-both {
+    page-break-before: always;
+    page-break-after: always;
+}
