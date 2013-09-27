@@ -276,5 +276,33 @@
             </navLabel>
             <content src="part6.html"/>
         </navPoint>
+
+        <navPoint class="chapter" id="part7" playOrder="37">
+            <navLabel>
+                <text>Part VII: Tomorrow</text>
+            </navLabel>
+            <content src="part7.html"/>
+
+            <navPoint class="section" id="part7chapter1" playOrder="32">
+                <navLabel>
+                    <text>“It was on that day, the tragedy fell upon us.”</text>
+                </navLabel>
+                <content src="part7.html#part7-chapter1"/>
+            </navPoint>
+
+            <navPoint class="section" id="part7chapter2" playOrder="33">
+                <navLabel>
+                    <text>“It was on that day, two girl children entered the temple.”</text>
+                </navLabel>
+                <content src="part7.html#part7-chapter2"/>
+            </navPoint>
+
+            <navPoint class="section" id="part7chapter3" playOrder="33">
+                <navLabel>
+                    <text>“We’ll be together forever... no matter what happens, we’ll never be apart.”</text>
+                </navLabel>
+                <content src="part7.html#part7-chapter3"/>
+            </navPoint>
+        </navPoint>
     </navMap>
 </ncx>
