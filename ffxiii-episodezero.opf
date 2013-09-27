@@ -23,6 +23,7 @@
         <item id="item1" media-type="application/xhtml+xml" href="part1.html"></item>
         <item id="item2" media-type="application/xhtml+xml" href="part2.html"></item>
         <item id="item3" media-type="application/xhtml+xml" href="part3.html"></item>
+        <item id="item4" media-type="application/xhtml+xml" href="part4.html"></item>
         <item id="toc" media-type="application/xhtml+xml" href="toc.html"></item>
 
         <item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="ffxiii-episodezero.ncx"/>
@@ -35,6 +36,7 @@
         <itemref idref="item1"/>
         <itemref idref="item2"/>
         <itemref idref="item3"/>
+        <itemref idref="item4"/>
     </spine>
 
     <guide>

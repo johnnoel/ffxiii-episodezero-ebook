@@ -171,5 +171,61 @@
                 <content src="part3.html#part3-chapter7"/>
             </navPoint>
         </navPoint>
+
+        <navPoint class="chapter" id="part4" playOrder="24">
+            <navLabel>
+                <text>Part IV: Search</text>
+            </navLabel>
+            <content src="part4.html"/>
+
+            <navPoint class="section" id="part4chapter1" playOrder="25">
+                <navLabel>
+                    <text>Chapter One</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter1"/>
+            </navPoint>
+
+            <navPoint class="section" id="part4chapter2" playOrder="26">
+                <navLabel>
+                    <text>Chapter Two</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter2"/>
+            </navPoint>
+
+            <navPoint class="section" id="part4chapter3" playOrder="27">
+                <navLabel>
+                    <text>Chapter Three</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter3"/>
+            </navPoint>
+
+            <navPoint class="section" id="part4chapter4" playOrder="28">
+                <navLabel>
+                    <text>Chapter Four</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter4"/>
+            </navPoint>
+
+            <navPoint class="section" id="part4chapter5" playOrder="29">
+                <navLabel>
+                    <text>Chapter Five</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter5"/>
+            </navPoint>
+
+            <navPoint class="section" id="part4chapter6" playOrder="30">
+                <navLabel>
+                    <text>Chapter Six</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter6"/>
+            </navPoint>
+
+            <navPoint class="section" id="part4chapter7" playOrder="31">
+                <navLabel>
+                    <text>Chapter Seven</text>
+                </navLabel>
+                <content src="part4.html#part4-chapter7"/>
+            </navPoint>
+        </navPoint>
     </navMap>
 </ncx>
