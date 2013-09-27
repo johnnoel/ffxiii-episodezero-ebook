@@ -2,11 +2,13 @@
 
 A project to convert the [translations by Lissar](http://dilly-shilly.blogspot.co.uk/2009/10/final-fantasy-xiii-episode-zero.html) of the Final Fantasy XIII: Episode Zero book into a suitable ebook format.
 
+[Download the compiled .mobi file](https://github.com/johnnoel/ffxiii-episodezero-ebook/raw/master/FFXIII.mobi) to consume on your favourite e-book reader.
+
 Considered complete as of 2013-09-27 unless there are any spelling / grammar / translation issues to solve, in which case open up a GitHub issue.
 
 ## Origin
 
-Taken from the [Final Fantast Wiki](http://finalfantasy.wikia.com/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-):
+Taken from the [Final Fantasy Wiki](http://finalfantasy.wikia.com/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-):
 
 Final Fantasy XIII Episode Zero -Promise- is a series of web novellas written by Jun Eishima, depicting the thirteen days leading up to the events of Final Fantasy XIII. New chapters involving Snow, Fang, and Vanille were released in a published Light Novel.
 
