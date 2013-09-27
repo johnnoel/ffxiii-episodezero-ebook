@@ -2,6 +2,8 @@
 
 A project to convert the [translations by Lissar](http://dilly-shilly.blogspot.co.uk/2009/10/final-fantasy-xiii-episode-zero.html) of the Final Fantasy XIII: Episode Zero book into a suitable ebook format.
 
+Considered complete as of 2013-09-27 unless there are any spelling / grammar / translation issues to solve, in which case open up a GitHub issue.
+
 ## Origin
 
 Taken from the [Final Fantast Wiki](http://finalfantasy.wikia.com/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-):
