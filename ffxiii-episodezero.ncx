@@ -227,5 +227,47 @@
                 <content src="part4.html#part4-chapter7"/>
             </navPoint>
         </navPoint>
+
+        <navPoint class="chapter" id="part5" playOrder="31">
+            <navLabel>
+                <text>Part V: Friends</text>
+            </navLabel>
+            <content src="part5.html"/>
+
+            <navPoint class="section" id="part5chapter1" playOrder="32">
+                <navLabel>
+                    <text>Chapter One</text>
+                </navLabel>
+                <content src="part5.html#part5-chapter1"/>
+            </navPoint>
+
+            <navPoint class="section" id="part5chapter2" playOrder="33">
+                <navLabel>
+                    <text>Chapter Two</text>
+                </navLabel>
+                <content src="part5.html#part5-chapter2"/>
+            </navPoint>
+
+            <navPoint class="section" id="part5chapter3" playOrder="33">
+                <navLabel>
+                    <text>Chapter Three</text>
+                </navLabel>
+                <content src="part5.html#part5-chapter3"/>
+            </navPoint>
+
+            <navPoint class="section" id="part5chapter4" playOrder="34">
+                <navLabel>
+                    <text>Chapter Four</text>
+                </navLabel>
+                <content src="part5.html#part5-chapter4"/>
+            </navPoint>
+
+            <navPoint class="section" id="part5chapter5" playOrder="35">
+                <navLabel>
+                    <text>Chapter Five</text>
+                </navLabel>
+                <content src="part5.html#part5-chapter5"/>
+            </navPoint>
+        </navPoint>
     </navMap>
 </ncx>
