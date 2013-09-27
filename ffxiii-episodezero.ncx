@@ -269,5 +269,12 @@
                 <content src="part5.html#part5-chapter5"/>
             </navPoint>
         </navPoint>
+
+        <navPoint class="chapter" id="part6" playOrder="36">
+            <navLabel>
+                <text>Part VI: Present</text>
+            </navLabel>
+            <content src="part6.html"/>
+        </navPoint>
     </navMap>
 </ncx>
